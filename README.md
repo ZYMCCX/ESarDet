@@ -5,7 +5,7 @@ papar is available at: https://www.mdpi.com/2072-4292/15/12/3018
 
 ## Overall structure
 
-![Image text](https://github.com/ZYMCCX/ESarDet/structure.png)
+![Image text](https://github.com/ZYMCCX/ESarDet/blob/main/structure.png)
 
 ## Abstract 
 
